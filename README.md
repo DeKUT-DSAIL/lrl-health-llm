@@ -1,1 +1,2 @@
-# lrl-health-llm
+# Low Resource Language Health LLM
+This repository involves the development of large language model(LLM) in health domain for low resource kenyan languages. The objective is to bridge the language barrier between patient and health professionals. The project aims to support multimodl interactions such as Text-to-Text(T2T), Text-to-Speech(TTS) and Speech-to-Text(STT) by fine tuning pretrained model with heaalth related data. This will enable both written and spoken communication for underrepresented communities.
